@@ -1,0 +1,19 @@
+[33mcommit 7ef979d3e5463e10e0bb4eeba8e942b3fe20b97d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: jaimebarrancos <jaime.barrancos@outlook.com>
+Date:   Tue Jul 4 23:45:57 2023 +0100
+
+    The innitial commit
+
+[33mcommit 8523dcde4e51cc3d51e79cba9f8855648ea7be79[m
+Author: jaimebarrancos <jaime.barrancos@outlook.com>
+Date:   Tue Jul 4 10:07:25 2023 +0100
+
+    forge install: forge-std
+    
+    v1.5.6
+
+[33mcommit 95efe92133ceae2ac1f3636f2df52e35f81c439e[m
+Author: jaimebarrancos <jaime.barrancos@outlook.com>
+Date:   Tue Jul 4 10:07:18 2023 +0100
+
+    chore: forge init
